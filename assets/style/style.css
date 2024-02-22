@@ -1,0 +1,43 @@
+.navbar{
+    background: linear-gradient( #fd79a8, #f8a5c2);
+}
+.diva{
+    text-decoration-color: #fd79a8;
+}
+body{
+    background:linear-gradient( #fd79a8, #ffffff);
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    text-align: center;
+}
+.fotoku{
+    width: 200px;
+}
+.textprofil{
+    font-family: 'DM Serif Display', serif;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    /* font-family: 'Thasadith', sans-serif; */
+    text-size-adjust: 20px;
+    text-decoration-color: #fd79a8;
+}
+.textbio{
+    font-family: 'DM Serif Display', serif;
+}
+/* .semuaaku{
+    background: linear-gradient(  #ffc2d8, #ffffff);
+    font-family: 'Rubik', sans-serif;
+} */
+.card{
+    background:#ffc8db;
+}
