@@ -1,47 +1,47 @@
-*{
+/* *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: montserrat;
-}
+} */
 /* konten utama/background */
-body{
+/* body{
     background:#fd79a8;
-}
+} */
 /* halaman web */
-.container{
+/* .container{
     background: #ecf0f1;
     max-width: 600px;
     margin: 50px auto;
     height: 1000px;
     padding: 50;
     box-shadow: 0 2px 20px rgba(0,0,0,0.3);
-}
+} */
 /* navigasi halaman web */
-.header{
+/* .header{
     text-align: center;
-}
+} */
 /* teks "profil saya" */
-.header h1{
+/* .header h1{
     margin-bottom: 10px;
-}
+} */
 /* biodata */
-.header h2{
+/* .header h2{
    text-transform: uppercase;
    font-size: 15px;
    font-weight: 500;
-}
+} */
 /* peta gambar ( area bulat) */
-.img-area{
+/* .img-area{
     width: 200px;
     height: 200px;
     border-radius: 50%;
     overflow: hidden;
     margin: 25px auto;
     border: 15px groove #f8a5c2;
-}
+} */
 /* lebar gambar */
-.img-area img{
+/* .img-area img{
     width: 100%;
 }
 .main{
@@ -54,14 +54,14 @@ body{
 }
 .left p{
     line-height: 2;
-} 
+}  */
 /* isi teks kesukaan */
-.left ul li{
+/* .left ul li{
     line-height: 2;
-}
+} */
 /* padding=di gunakaan untuk menata letak dari sisi dalam
  yg berisi konten teks biodata,kesukaan dan about me  */
-h2{
+/* h2{
     background: #f8a5c2;
     padding: 15px;
     color: #ecf0f1;
@@ -72,17 +72,17 @@ h2{
 .right{
     flex: 1;
     padding: 40px;
-}
+} */
 /* teks about me */
-.right h2{
+/* .right h2{
     margin-bottom: 15px;
-}
+} */
 /* tag p */
-.right p{
+/* .right p{
     line-height: 2.9;
-}
+} */
 /* isi about me */
-.right ul li{
+/* .right ul li{
     line-height: 2;
 }
 
@@ -111,4 +111,4 @@ h2{
     h2{
         font-size: 15px;
     }
-}
+} */
